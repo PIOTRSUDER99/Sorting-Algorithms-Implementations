@@ -1,0 +1,16 @@
+﻿  Functions.cpp
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\functions.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\functions.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\functions.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\functions.cpp(176): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Sorting.cpp
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.cpp(70): warning C4018: '>': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.cpp(143): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.cpp(156): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\cop 3530\sorting analysis\sorting analysis\sorting.cpp(162): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Sorting Performance Analysis.vcxproj -> C:\Users\DELL\Desktop\Sorting Performance Analysis\Debug\Sorting Performance Analysis.exe
